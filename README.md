@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **yangustavoprof/yangustavoprof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![https://tenor.com/pt-BR/view/go-brazil-brazil-soccer-world-cup-dance-gif-12023880]
